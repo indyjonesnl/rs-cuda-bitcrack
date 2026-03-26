@@ -62,8 +62,7 @@ rs-cuda-bitcrack/
 │   └── hash/                # Cryptographic hash functions
 ├── cuda_wrapper.cpp/h       # C API for Rust FFI
 ├── build.rs                 # Build script (nvcc compilation)
-├── CUDA_SETUP.md            # CUDA installation guide
-└── bitcoin-puzzle-solved-20260226.csv  # Test data
+└── CUDA_SETUP.md            # CUDA installation guide
 ```
 
 ## How It Works
